@@ -1,0 +1,5 @@
+return keyboard_check(vk_left) 
+    or gamepad_button_check(0, gp_padl)
+    or gamepad_button_check(1, gp_padl)
+    or gamepad_button_check(2, gp_padl)
+    or gamepad_button_check(3, gp_padl)
