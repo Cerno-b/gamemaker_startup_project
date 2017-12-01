@@ -12,12 +12,12 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="input">
-      <script>scripts\input_move_up.gml</script>
+      <script>scripts\input_action.gml</script>
+      <script>scripts\input_handle_meta_keys.gml</script>
       <script>scripts\input_move_down.gml</script>
       <script>scripts\input_move_left.gml</script>
       <script>scripts\input_move_right.gml</script>
-      <script>scripts\input_action.gml</script>
-      <script>scripts\input_handle_meta_keys.gml</script>
+      <script>scripts\input_move_up.gml</script>
     </scripts>
   </scripts>
   <fonts name="fonts">
