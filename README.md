@@ -1,5 +1,4 @@
-============================================
-Gamemaker 1.4 project template for Game Jams
+GameMaker 1.4 project template for Game Jams
 ============================================
 
 An empty project with some helpful predefined functions and settings.
@@ -52,7 +51,9 @@ When uploading to itch.io, mark the game as Windows compatible, otherwise itch c
 
 Documenting your Game
 ---------------------
-Why not make a timelapse of your work? Like this of one of my Ludum Dare games: https://www.youtube.com/watch?v=Z0lX77yj1AY
+Why not make a timelapse of your work? 
+Like this of one of my Ludum Dare games: https://www.youtube.com/watch?v=Z0lX77yj1AY
+
 There are tools like Chronolapse that make screenshots which you can later convert to a video.
 Some notes:
 - set up Chronolapse to not display the timestamp, it's ugly
